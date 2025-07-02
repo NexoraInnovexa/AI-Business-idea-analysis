@@ -1,0 +1,10 @@
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+duckduckgo_search
+gradio
+langchain
+langchain-chroma
+langchain-community
+chromadb
